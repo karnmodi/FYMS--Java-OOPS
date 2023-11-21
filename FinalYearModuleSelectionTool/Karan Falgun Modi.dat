@@ -1,0 +1,32 @@
+Student Personal Details
+
+Name : Karan Falgun Modi
+P Number : P2761604
+Email : karanmodi3282@gmail.com
+Date : 2023-11-16
+Course : Computer Science
+
+Selected Modules:
+===============
+
+1. moduleCode=CTEC3701, moduleName=Software Development: Methods & Standards, moduleCredits=30, mandatory=true, runPlan=BLOCK_1
+
+
+2. moduleCode=CTEC3702, moduleName=Big Data and Machine Learning, moduleCredits=30, mandatory=true, runPlan=BLOCK_2
+
+
+3. moduleCode=CTEC3451, moduleName=Development Project, moduleCredits=30, mandatory=true, runPlan=BLOCK_3_4
+
+
+4. moduleCode=IMAT3722, moduleName=Fuzzy Logic and Inference Systems, moduleCredits=30, mandatory=false, runPlan=BLOCK_3_4
+
+
+
+
+Reserved Modules:
+===============
+
+1. moduleCode=CTEC3704, moduleName=Functional Programming, moduleCredits=30, mandatory=false, runPlan=BLOCK_3_4
+
+
+

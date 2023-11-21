@@ -1,0 +1,32 @@
+Student Personal Details
+
+Name : Bhoomi Falgun Modi
+P Number : P2761604
+Email : bhoomi@gmail.com
+Date : 2023-11-01
+Course : Artificial Intelligence
+
+Selected Modules:
+===============
+
+1. moduleCode=ARTI3706, moduleName=Agent-Based Modelling and Parallel Computing, moduleCredits=30, mandatory=true, runPlan=BLOCK_1
+
+
+2. moduleCode=ARTI3708, moduleName=Introduction to classical artificial intelligence, moduleCredits=30, mandatory=true, runPlan=BLOCK_2
+
+
+3. moduleCode=CTEC3451, moduleName=Development Project, moduleCredits=30, mandatory=true, runPlan=BLOCK_3_4
+
+
+4. moduleCode=CTEC3705, moduleName=Advanced Web Development, moduleCredits=30, mandatory=false, runPlan=BLOCK_3_4
+
+
+
+
+Reserved Modules:
+===============
+
+1. moduleCode=Arti3702, moduleName=Big Data and Machine Learning, moduleCredits=30, mandatory=false, runPlan=BLOCK_3_4
+
+
+
